@@ -1,14 +1,22 @@
-# Audio files (large WAVs, MP4s)
-*.wav
+# Media files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.bmp
+*.svg
 *.mp4
-*.MP4
-*.silk
-*.amr
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+*.flac
+*.aac
 
-# Python
-__pycache__/
-*.pyc
-
-# OS
-.DS_Store
-Thumbs.db
+# Keep markdown and text
+!*.md
+!*.txt
+!*.yaml
+!*.yml
