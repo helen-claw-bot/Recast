@@ -178,16 +178,6 @@ Based on Character A (see Photo 1-2) and Character B (see Photo 3-4). Side close
 
 ---
 
-## Shot 14 — "Downstairs" (7s)
-
-**First frame:**
-Based on Character A (see Photo 1-2) and Character B (see Photo 3-4). Extreme close-up. Character B's lower face pressed against the side of Character A's ear. Jawline and lips close to her ear visible. Their silhouettes almost merging against the deep blue background. Ultra-shallow depth of field. Film still, cinematic lighting, 135mm lens, shallow depth of field, photorealistic. 16:9 aspect ratio.
-
-**Last frame:**
-Based on Character A (see Photo 1-2) and Character B (see Photo 3-4). Same angle. Character B's chin shifts slightly as if whispering. Character A's baby hair near her ear stirred by his breath. Everything else unchanged. Film still, cinematic lighting, 135mm lens, shallow depth of field, photorealistic. 16:9 aspect ratio.
-
----
-
 ## Shot 15 — Epilogue (8s)
 
 **First frame:**
