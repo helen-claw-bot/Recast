@@ -1,0 +1,14 @@
+# Audio files (large WAVs, MP4s)
+*.wav
+*.mp4
+*.MP4
+*.silk
+*.amr
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
