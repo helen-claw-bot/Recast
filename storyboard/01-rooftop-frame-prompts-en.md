@@ -7,7 +7,7 @@
 >
 > **Character A outfit:** Chu Ran wears an olive green short-sleeve utility shirt (turndown collar, metal buttons, two chest pockets) over a white camisole, medium blue washed straight-leg jeans, a brown leather crossbody small bag, a leather wristwatch, and white canvas shoes.
 >
-> **Character B outfit:** Leo wears a dark blue linen shirt unbuttoned two or three buttons, showing an off-white sleeveless round-neck top underneath. Grey-brown loose straight-leg trousers with rolled cuffs. A woven rope bracelet on his wrist. Dark brown worn leather boots. Long wavy hair tied in a loose bun with strands falling near his ears.
+> **Character B outfit:** Leo wears a dark blue linen shirt unbuttoned two or three buttons, showing an off-white sleeveless round-neck top underneath. Grey-brown loose straight-leg trousers with rolled cuffs. A woven rope bracelet on his wrist. Off-white canvas sneakers. Long wavy hair tied in a loose bun with strands falling near his ears.
 
 ---
 
