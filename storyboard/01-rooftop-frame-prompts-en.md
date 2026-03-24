@@ -27,7 +27,7 @@ Based on Character A (see Photo 1-3), in Environment C (see Photo 6). Same angle
 In Environment C (see Photo 6). Wide angle, no people. Use the confirmed rooftop reference image directly. 16:9 aspect ratio.
 
 **Last frame:**
-In Environment C (see Photo 6). Same angle with slight rightward pan, small stemless tumblers of amber plum wine now centered on the parapet wall. No people. 16:9 aspect ratio.
+In Environment C (see Photo 6). Same angle with slight rightward pan. No people. 16:9 aspect ratio.
 
 ---
 
