@@ -64,20 +64,20 @@ Based on Character A (see Photo 1-2), in Environment C (see Photo 5). Same angle
 ## Shot 5b — Reverse Shot Leo (3s)
 
 **First frame:**
-Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Close-up reverse shot, 45-degree angle mirrored. Character B turning head toward camera left (toward Chu), corner of mouth in an uncertain curve — almost smiling but holding back. 16:9 aspect ratio.
+Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Over-the-shoulder shot from behind Character A (her shoulder and back of head visible in right foreground, softly out of focus). Character B facing camera, head turned slightly toward camera left. Corner of mouth in an uncertain curve — almost smiling but holding back. Eyes focused on a point just past the camera (as if looking at the person whose shoulder is in foreground). NOT drinking, NOT holding glass to mouth. Hands relaxed, one hand resting on parapet wall. Background: deep blue night sky, sparse string lights softly out of focus. 16:9 aspect ratio.
 
 **Last frame:**
-Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Same angle. Eyebrows slightly raised, mouth curve slightly wider, gaze more direct. 16:9 aspect ratio.
+Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Same over-the-shoulder angle. Eyebrows slightly raised, mouth curve slightly wider, gaze more direct — looking past Character A's shoulder straight toward her. 16:9 aspect ratio.
 
 ---
 
 ## Shot 6 — "I did it on purpose" (10s)
 
 **First frame:**
-Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Medium close-up. Character B holding small stemless glass tumbler of umeshu up covering lower half of face, only eyes visible above the glass rim, looking toward camera left (toward Chu). 16:9 aspect ratio.
+Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Over-the-shoulder shot from behind Character A (her shoulder and the side of her dark hair visible in left foreground, softly blurred). Character B in focus, medium close-up, holding a small stemless glass tumbler of golden-amber umeshu raised to cover his lower face — only eyes visible above the glass rim. Eyes focused directly toward the camera (toward Chu in foreground). Expression: calm, deliberate, with a hint of mischief in the eyes. Background: deep blue night sky, a few sparse string lights as soft bokeh. 16:9 aspect ratio.
 
 **Last frame:**
-Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Same angle. Glass lowered onto the parapet wall (visible at bottom of frame), full face revealed, expression calm and gentle, looking directly toward camera left (toward Chu). 16:9 aspect ratio.
+Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Same over-the-shoulder angle. Glass lowered onto the parapet wall (visible at bottom of frame), full face revealed — expression calm, gentle, unapologetic. Looking directly toward camera left (toward Chu). The faintest smile at the corner of his mouth. 16:9 aspect ratio.
 
 ---
 
@@ -94,10 +94,10 @@ Based on Character A (see Photo 1-2). Same angle. Lips slightly parted then soft
 ## Shot 8 — Leo's Eyes (3s)
 
 **First frame:**
-Based on Character B (see Photo 3-4). Extreme close-up, only both eyes. Dark blue sky light reflected in pupils, tiny star string light reflections on eye surface. Gaze searching and uncertain. 16:9 aspect ratio.
+Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Close-up of Character B's face from forehead to chin. Dark brown eyes looking slightly to camera left (toward Chu). Expression: searching uncertainty — brow slightly furrowed, jaw tense. Deep blue twilight behind him, warm string light glow on the right side of his face. 16:9 aspect ratio.
 
 **Last frame:**
-Based on Character B (see Photo 3-4). Same angle. Light in pupils brighter, an ignited quality. Gaze shifts from searching to certain. Slight tightening at eye corners. 16:9 aspect ratio.
+Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Same angle. Expression shifted to quiet resolve — brow relaxed, subtle tightening at the corners of his eyes, jaw softened. Gaze now direct and certain. Warm light slightly brighter on his face. 16:9 aspect ratio.
 
 ---
 
