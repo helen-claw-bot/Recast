@@ -1,11 +1,11 @@
 # Rooftop Scene — First/Last Frame Prompts (Version A · 15 Shots)
 
 > **Reference images uploaded:**
-> - Photo 1-3: Character A (Chu Ran) — face and body reference, maintain the same facial features and face shape
+> - Photo 1-3: Character A (Chu) — face and body reference, maintain the same facial features and face shape
 > - Photo 4-5: Character B (Leo) — face and body reference, maintain the same facial features and face shape
 > - Photo 6: Environment C (Rooftop) — scene reference for layout and lighting
 >
-> **Character A outfit:** Chu Ran wears an olive green short-sleeve utility shirt (turndown collar, metal buttons, two chest pockets) over a white camisole, medium blue washed straight-leg jeans, a brown leather crossbody small bag, a leather wristwatch, and white canvas shoes.
+> **Character A outfit:** Chu wears an olive green short-sleeve utility shirt (turndown collar, metal buttons, two chest pockets) over a white camisole, medium blue washed straight-leg jeans, a leather wristwatch, and white canvas shoes.
 >
 > **Character B outfit:** Leo wears a dark blue linen shirt unbuttoned two or three buttons, showing an off-white sleeveless round-neck top underneath. Grey-brown loose straight-leg trousers with rolled cuffs. A woven rope bracelet on his wrist. Off-white canvas sneakers. Long wavy hair tied in a loose bun with strands falling near his ears.
 
@@ -111,7 +111,7 @@ Based on Character A (see Photo 1-3) and Character B (see Photo 4-5). Close-up. 
 
 ---
 
-## Shot 10 — Churan's Breath (5s)
+## Shot 10 — Chu's Breath (5s)
 
 **First frame:**
 Based on Character A (see Photo 1-3), in Environment C (see Photo 6). Close-up. Character A's face, breathing visibly faster with lips slightly parted. Eyes looking directly toward camera left. Star string lights as warm bokeh. 16:9 aspect ratio.
