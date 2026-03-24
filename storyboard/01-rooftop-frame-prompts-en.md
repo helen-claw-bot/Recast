@@ -54,7 +54,7 @@ Based on Character A (see Photo 1-2) and Character B (see Photo 3-4), in Environ
 ## Shot 5 — "You did that on purpose" (10s)
 
 **First frame:**
-Based on Character A (see Photo 1-2), in Environment C (see Photo 5). Close-up, 45-degree angle. Character A holding a small stemless tumbler at chest level, looking toward camera left. Expression: slight smile, playful probing. Star string lights as bokeh behind her. 16:9 aspect ratio.
+Based on Character A (see Photo 1-2), in Environment C (see Photo 5). Close-up, 45-degree angle. Character A holding a small stemless tumbler at chest level, looking toward camera right (toward Leo). Expression: slight smile, playful probing. Star string lights as bokeh behind her. 16:9 aspect ratio.
 
 **Last frame:**
 Based on Character A (see Photo 1-2), in Environment C (see Photo 5). Same angle. Smile more pronounced, eyes slightly challenging — a knowing look. 16:9 aspect ratio.
@@ -64,7 +64,7 @@ Based on Character A (see Photo 1-2), in Environment C (see Photo 5). Same angle
 ## Shot 5b — Reverse Shot Leo (3s)
 
 **First frame:**
-Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Close-up reverse shot, 45-degree angle mirrored. Character B turning head toward camera right, corner of mouth in an uncertain curve — almost smiling but holding back. 16:9 aspect ratio.
+Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Close-up reverse shot, 45-degree angle mirrored. Character B turning head toward camera left (toward Chu), corner of mouth in an uncertain curve — almost smiling but holding back. 16:9 aspect ratio.
 
 **Last frame:**
 Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Same angle. Eyebrows slightly raised, mouth curve slightly wider, gaze more direct. 16:9 aspect ratio.
@@ -74,10 +74,10 @@ Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Same angle
 ## Shot 6 — "I did it on purpose" (10s)
 
 **First frame:**
-Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Medium close-up. Character B holding small stemless glass tumbler of umeshu up covering lower half of face, only eyes visible above the glass rim, looking toward camera right. 16:9 aspect ratio.
+Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Medium close-up. Character B holding small stemless glass tumbler of umeshu up covering lower half of face, only eyes visible above the glass rim, looking toward camera left (toward Chu). 16:9 aspect ratio.
 
 **Last frame:**
-Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Same angle. Glass lowered onto the parapet wall (visible at bottom of frame), full face revealed, expression calm and gentle, looking directly toward camera right. 16:9 aspect ratio.
+Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Same angle. Glass lowered onto the parapet wall (visible at bottom of frame), full face revealed, expression calm and gentle, looking directly toward camera left (toward Chu). 16:9 aspect ratio.
 
 ---
 
@@ -114,7 +114,7 @@ Based on Character A (see Photo 1-2) and Character B (see Photo 3-4). Close-up. 
 ## Shot 10 — Chu's Breath (5s)
 
 **First frame:**
-Based on Character A (see Photo 1-2), in Environment C (see Photo 5). Close-up. Character A's face, breathing visibly faster with lips slightly parted. Eyes looking directly toward camera left. Star string lights as warm bokeh. 16:9 aspect ratio.
+Based on Character A (see Photo 1-2), in Environment C (see Photo 5). Close-up. Character A's face, breathing visibly faster with lips slightly parted. Eyes looking directly toward camera right (toward Leo). Star string lights as warm bokeh. 16:9 aspect ratio.
 
 **Last frame:**
 Based on Character A (see Photo 1-2), in Environment C (see Photo 5). Same angle. Gaze shifts downward from eye level to lip level. The last moment before making a decision. 16:9 aspect ratio.
