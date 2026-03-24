@@ -11,6 +11,33 @@
 
 ---
 
+## How to Use This File (Gemini Workflow)
+
+**Every time you generate a shot, attach these images:**
+1. Character reference photos (Photo 1-4)
+2. Environment reference (Photo 5)
+3. **Master shot** (`shot00_master_v1.png`) — spatial anchor for the entire scene
+
+**Prefix each prompt with:**
+```
+Refer to the attached master shot for spatial layout: Character A (Chu) is seated on the LEFT, Character B (Leo) is seated on the RIGHT, facing each other on a rooftop parapet wall. Now generate the following shot from this scene:
+```
+
+Then paste the specific shot prompt below.
+
+The master shot = the map of the scene. Each close-up = zooming into a specific spot on that map.
+
+---
+
+## Shot 0 — Master Shot (spatial reference, not a story frame)
+
+**Single frame:**
+Based on Character A (see Photo 1-2) and Character B (see Photo 3-4), in Environment C (see Photo 5). Wide medium shot, static camera, eye-level. Character A (Chu) sitting on the left side of the parapet wall, Character B (Leo) sitting on the right side, half-fist gap between them. Both facing each other at a slight angle, each holding a stemless tumbler of golden-amber umeshu. Two feet dangling over the wall edge. Behind them: Taipei city lights, deep blue night sky. To the right: glass door to the warm-lit attic room. String lights overhead, potted plants along the wall. The entire rooftop space is visible. Film still, cinematic lighting, 35mm lens, deep depth of field, photorealistic. 16:9 aspect ratio.
+
+> **File:** `frames/01-rooftop/shot00_master_v1.png`
+
+---
+
 ## Shot 1 — Push Door (5s)
 
 **First frame:**
