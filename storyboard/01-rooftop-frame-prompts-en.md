@@ -54,7 +54,7 @@ Based on Character A (see Photo 1-2) and Character B (see Photo 3-4), in Environ
 ## Shot 5 — "You did that on purpose" (10s)
 
 **First frame:**
-Based on Character A (see Photo 1-2), in Environment C (see Photo 5). Close-up, 45-degree angle. Character A holding a small stemless tumbler at chest level, looking toward camera right (toward Leo). Expression: slight smile, playful probing. Star string lights as bokeh behind her. 16:9 aspect ratio.
+Based on Character A (see Photo 1-2), in Environment C (see Photo 5). Close-up, 45-degree angle. Character A sitting, body angled three-quarters toward camera right, head turned to look at someone off-screen to her right. She holds a small stemless tumbler at chest level. Expression: slight smile, playful probing. Background: deep blue night sky with a few sparse string lights, softly out of focus. 16:9 aspect ratio.
 
 **Last frame:**
 Based on Character A (see Photo 1-2), in Environment C (see Photo 5). Same angle. Smile more pronounced, eyes slightly challenging — a knowing look. 16:9 aspect ratio.
