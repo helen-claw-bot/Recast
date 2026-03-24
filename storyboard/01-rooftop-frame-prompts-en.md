@@ -148,13 +148,13 @@ Based on Character A (see Photo 1-2), in Environment C (see Photo 5). Same angle
 
 ---
 
-## Shot 11 — Last Exchange (15s)
+## Shot 11 — Tightening Grip (5s)
 
 **First frame:**
-Based on Character A (see Photo 1-2) and Character B (see Photo 3-4), in Environment C (see Photo 5). Medium close-up, two-shot, slightly angled. Face to face, about 15cm apart. Background: two small stemless tumblers of umeshu on parapet wall and star string lights. Both looking into each other's eyes. Film still, cinematic lighting, 85mm lens, shallow depth of field, photorealistic. 16:9 aspect ratio.
+Based on Character A (see Photo 1-2), in Environment C (see Photo 5). Close-up insert shot. Character A's right hand gripping a small stemless tumbler of golden-amber umeshu on the parapet wall. Knuckles slightly white from tension. Leather wristwatch visible on her wrist. Olive green shirt sleeve at top edge of frame. Background: deep blue night, string lights as soft bokeh. Film still, cinematic lighting, 100mm macro lens, shallow depth of field, photorealistic. 16:9 aspect ratio.
 
 **Last frame:**
-Based on Character B (see Photo 3-4), in Environment C (see Photo 5). Same angle, slightly pushed in to Character B close-up. Character A blurred at frame edge. Character B looking forward with a sincere, vulnerable expression. Film still, cinematic lighting, 135mm lens, shallow depth of field, photorealistic. 16:9 aspect ratio.
+Same angle. Fingers slowly relaxing their grip on the glass, tension releasing. The faintest tremble visible. Everything else unchanged. Film still, cinematic lighting, 100mm macro lens, shallow depth of field, photorealistic. 16:9 aspect ratio.
 
 ---
 
