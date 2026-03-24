@@ -34,7 +34,7 @@ In Environment C (see Photo 6). Same angle with slight rightward pan. No people.
 ## Shot 3 — Pouring Wine (7s)
 
 **First frame:**
-Based on Character B (see Photo 4-5). Close-up of Character B's right hand holding a dark plum wine bottle, tilted, pouring amber liquid into a clear glass. Only hand and forearm visible with woven bracelet. Background blurred into golden star light bokeh. 16:9 aspect ratio.
+Based on Character B (see Photo 4-5). Close-up of Character B's right hand holding a dark glass bottle of umeshu, tilted, pouring amber liquid into a clear glass. Only hand and forearm visible with woven bracelet. Background blurred into golden star light bokeh. 16:9 aspect ratio.
 
 **Last frame:**
 Based on Character B (see Photo 4-5), in Environment C (see Photo 6). Medium close-up, side profile. Character B has just set down the wine bottle on the parapet wall, two filled stemless tumblers before him. Right hand pushing one tumbler toward camera right. Side of face visible. 16:9 aspect ratio.
@@ -44,7 +44,7 @@ Based on Character B (see Photo 4-5), in Environment C (see Photo 6). Medium clo
 ## Shot 4 — Sitting Together · Distance (3s)
 
 **First frame:**
-Based on Character A (see Photo 1-3) and Character B (see Photo 4-5), in Environment C (see Photo 6). Side medium shot. Both sitting side by side on the parapet wall edge, half-fist gap between them. Each holding a stemless tumbler of amber plum wine. Side profiles outlined by warm string lights. 16:9 aspect ratio.
+Based on Character A (see Photo 1-3) and Character B (see Photo 4-5), in Environment C (see Photo 6). Side medium shot. Both sitting side by side on the parapet wall edge, half-fist gap between them. Each holding a stemless tumbler of umeshu (golden-amber Japanese plum liqueur). Side profiles outlined by warm string lights. 16:9 aspect ratio.
 
 **Last frame:**
 Based on Character A (see Photo 1-3) and Character B (see Photo 4-5), in Environment C (see Photo 6). Same angle. Character A raising her glass to her lips. Character B's gaze slightly turned toward her. Everything else identical. 16:9 aspect ratio.
@@ -74,7 +74,7 @@ Based on Character B (see Photo 4-5), in Environment C (see Photo 6). Same angle
 ## Shot 6 — "I did it on purpose" (10s)
 
 **First frame:**
-Based on Character B (see Photo 4-5), in Environment C (see Photo 6). Medium close-up. Character B holding small stemless glass tumbler of amber plum wine up covering lower half of face, only eyes visible above the glass rim, looking toward camera right. 16:9 aspect ratio.
+Based on Character B (see Photo 4-5), in Environment C (see Photo 6). Medium close-up. Character B holding small stemless glass tumbler of umeshu up covering lower half of face, only eyes visible above the glass rim, looking toward camera right. 16:9 aspect ratio.
 
 **Last frame:**
 Based on Character B (see Photo 4-5), in Environment C (see Photo 6). Same angle. Glass lowered onto the parapet wall (visible at bottom of frame), full face revealed, expression calm and gentle, looking directly toward camera right. 16:9 aspect ratio.
@@ -124,7 +124,7 @@ Based on Character A (see Photo 1-3), in Environment C (see Photo 6). Same angle
 ## Shot 11 — Last Exchange (15s)
 
 **First frame:**
-Based on Character A (see Photo 1-3) and Character B (see Photo 4-5), in Environment C (see Photo 6). Medium close-up, two-shot, slightly angled. Face to face, about 15cm apart. Background: two small stemless tumblers of amber plum wine on parapet wall and star string lights. Both looking into each other's eyes. 16:9 aspect ratio.
+Based on Character A (see Photo 1-3) and Character B (see Photo 4-5), in Environment C (see Photo 6). Medium close-up, two-shot, slightly angled. Face to face, about 15cm apart. Background: two small stemless tumblers of umeshu on parapet wall and star string lights. Both looking into each other's eyes. 16:9 aspect ratio.
 
 **Last frame:**
 Based on Character B (see Photo 4-5), in Environment C (see Photo 6). Same angle, slightly pushed in to Character B close-up. Character A blurred at frame edge. Character B looking forward with a sincere, vulnerable expression. 16:9 aspect ratio.
@@ -164,7 +164,7 @@ Based on Character A (see Photo 1-3) and Character B (see Photo 4-5). Same angle
 ## Shot 15 — Epilogue (8s)
 
 **First frame:**
-In Environment C (see Photo 6). Medium shot, empty. Two small stemless tumblers of amber plum wine still on the parapet wall with slightly less wine. Mint swaying in breeze. String lights glowing. Glass door closed, interior light dimmed. No people. 16:9 aspect ratio.
+In Environment C (see Photo 6). Medium shot, empty. Two small stemless tumblers of umeshu still on the parapet wall with slightly less wine. Mint swaying in breeze. String lights glowing. Glass door closed, interior light dimmed. No people. 16:9 aspect ratio.
 
 **Last frame:**
 In Environment C (see Photo 6). Same angle. Frame naturally darkening, string lights becoming more prominent as ambient light fades. Everything still. Preparing for black screen. 16:9 aspect ratio.
